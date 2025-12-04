@@ -141,11 +141,11 @@ matches = scraper.scrape(output_path="data/raw.json")
 
 **Cleaning Statistics:**
 ```
-Input records:       150
-Duplicates removed:  15
-Invalid removed:     5
-Output records:      130
-Retention rate:      86.7%
+138 raw records
+119 duplicates removed   ← Очень много!
+19 missing critical removed
+0 invalid removed
+Output: 0
 ```
 
 ---
