@@ -1,1 +1,18 @@
 "" 
+# Web Scraping
+selenium>=4.15.2
+webdriver-manager>=4.0.1
+
+# Data Processing
+pandas>=2.1.3
+
+# Database
+# sqlite3 is part of Python standard library
+
+# Utilities
+python-dateutil>=2.8.2
+
+# Note: Chrome/Chromium browser must be available in the environment
+# For Astro/Docker environments, add to packages.txt:
+# - chromium
+# - chromium-chromedriver
