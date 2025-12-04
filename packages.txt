@@ -1,0 +1,5 @@
+# Add OS-level packages here, one per line. Leave blank if none.
+
+# Required for Selenium/Chrome automation
+chromium
+chromium-driver
